@@ -35,7 +35,7 @@ Default Icons
 -------------
 
 Currently tmux-iconbar can detect if docker is running and if you are connected to the internet.:)
-If you have some idears on what it could do let me know.
+If you have some ideas on what it could do let me know.
 
 Adding custom scripts
 ---------------------
