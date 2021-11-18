@@ -31,6 +31,11 @@ set -g status-right '#{@iconbar_state}'
 Reload the config and et voila you have some nice looking icons
 
 
+Default Icons
+-------------
+
+Currently tmux-iconbar can detect if docker is running and if you are connected to the internet.:)
+If you have some idears on what it could do let me know.
 
 Adding custom scripts
 ---------------------
