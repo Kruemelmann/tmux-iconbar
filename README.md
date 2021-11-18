@@ -26,7 +26,7 @@ Usage
 
 Now if the plugin is installed you get a format string
 ```tmux
-set -g status-right '#{iconbar_state}'
+set -g status-right '#{@iconbar_state}'
 ```
 Reload the config and et voila you have some nice looking icons
 
