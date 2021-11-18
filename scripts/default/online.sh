@@ -1,7 +1,8 @@
 #!/bin/sh
 
-online=$(nc -zw1 google.com 443 >/dev/null 2>&1)
-if !($online); then
+nc -z -v google.com 80 &> /dev/null
+result1=$?
+
+if [  "$result1" != 0 ]; then
     echo " "
-    exit 1
 fi
