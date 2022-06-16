@@ -3,6 +3,7 @@ tmux-iconbar
 
 This tmux Plugin add a customizable iconbar to your tmux statusline.
 (Docker Icon error:/ )
+
 Requirements
 ------------
 
