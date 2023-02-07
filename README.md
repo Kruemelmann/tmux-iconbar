@@ -4,6 +4,12 @@ tmux-iconbar
 This tmux Plugin add a customizable iconbar to your tmux statusline.
 (Docker Icon error:/ )
 
+---
+**NOTE**
+
+This plugin calles shellscripts so watch what you let it execute;)
+---
+
 Requirements
 ------------
 
@@ -43,13 +49,6 @@ Adding custom scripts
 
 You can add your own scripts by placeing them in the folder 'scripts/custom'.
 You can find a template on how to write the scripts in there too.
-
-
----
-**NOTE**
-
-This plugin calles shellscripts so watch what you let it execute;)
----
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
